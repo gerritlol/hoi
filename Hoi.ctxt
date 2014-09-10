@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=getGetal
+comment0.target=Hoi(int)
+comment1.params=
+comment1.target=int\ geefKleinsteDeler()
+comment2.params=
+comment2.target=int\ geefGrootsteDeler()
+comment3.params=
+comment3.target=boolean\ isPriem()
+comment4.params=
+comment4.target=int\ geefCrijferSom()
+comment5.params=
+comment5.target=int\ geefFaculteit()
+comment6.params=
+comment6.target=boolean\ geefPerfectGetal()
+numComments=7
