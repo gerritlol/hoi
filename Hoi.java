@@ -100,6 +100,6 @@ public void testGit() {
 }
 
 public void testGit2() {
-    System.out.println("hoi2");
+    System.out.println("hoi2"); //lol
 }
 }
