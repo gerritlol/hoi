@@ -15,4 +15,6 @@ comment6.params=
 comment6.target=boolean\ geefPerfectGetal()
 comment7.params=
 comment7.target=void\ testGit()
-numComments=8
+comment8.params=
+comment8.target=void\ testGit2()
+numComments=9
