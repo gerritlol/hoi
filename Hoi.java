@@ -93,4 +93,9 @@ public class Hoi
         return false;
     }
 }
+
+//test for github
+public void testGit() {
+    System.out.println("hoi");
+}
 }
