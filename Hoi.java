@@ -96,6 +96,6 @@ public class Hoi
 
 //test for github
 public void testGit() {
-    System.out.println("hoi");
+    //hoi
 }
 }
